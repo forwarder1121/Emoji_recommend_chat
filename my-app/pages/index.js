@@ -18,7 +18,7 @@ const HomePage = () => {
 
     return (
         <div>
-            <h1>Welcome to Next.js!</h1>
+            <h1>영어 문장을 치고 1초 기다리면 이모지를 추천하는 채팅 서비스</h1>
             <div id="root"></div>
         </div>
     );
