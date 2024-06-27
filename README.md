@@ -1,5 +1,10 @@
 # BERT를 이용한 이모지 추천 채팅 서비스
 
+Front : React.js
+Back : Node.js(Express)
+AI : Huggface API (finetuned BERT)
+Service : Versel, AWS
+
 ---
 
 현재 AWS 비용 문제로 인해 호스팅하지 않고 있습니다.
