@@ -7,6 +7,6 @@
 
 <img width="400" alt="image" src="https://github.com/forwarder1121/KuTichu/assets/66872094/4f7c712b-2718-4249-ab3e-a16c41bd7359">
 
-사용법 : 영어 문장을 입력하면 1초 후에 이모지를 추천해줌
+사용법 : 영어 문장을 입력하면 1초 후에 이모지를 추천받을 수 있습니다.
 
 [링크](https://sentimentanalysis-forwarder1121s-projects.vercel.app/)
