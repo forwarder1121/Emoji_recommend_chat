@@ -7,7 +7,7 @@ Service : Versel, AWS
 
 ---
 
-[링크](https://sentimentanalysis-forwarder1121s-projects.vercel.app/)
+[링크](https://sentimentanalysis-forwarder1121-forwarder1121s-projects.vercel.app/)
 
 현재 AWS 비용 문제로 인해 호스팅하지 않고 있습니다.   
 따라서, 현재는 Vercel에서만 1인용으로만 시연가능합니다. (실제 대화는 불가)
